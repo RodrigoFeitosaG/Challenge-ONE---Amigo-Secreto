@@ -20,42 +20,11 @@ JavaScript → Lógica para adicionar participantes e realizar o sorteio
 🔽 Clonar o repositório
 Abra o terminal e execute o seguinte comando:
 
-bash
-Copiar
-Editar
-git clone https://github.com/seu-usuario/amigo-secreto.git
-▶️ Executar o projeto
-Navegue até a pasta do projeto:
-bash
-Copiar
-Editar
-cd amigo-secreto
 Abra o arquivo index.html em seu navegador
-📸 Capturas de Tela
 🎨 Tela Principal
 
-📌 Como Contribuir
-Se você deseja contribuir com o projeto, siga estas etapas:
-
-Faça um fork deste repositório
-Crie um branch para sua funcionalidade:
-bash
-Copiar
-Editar
-git checkout -b minha-nova-funcionalidade
-Faça as alterações necessárias e adicione os commits:
-bash
-Copiar
-Editar
-git commit -m "Adiciona nova funcionalidade X"
-Envie as alterações para o seu fork:
-bash
-Copiar
-Editar
-git push origin minha-nova-funcionalidade
-Abra um Pull Request explicando suas mudanças
 📜 Licença
 Este projeto é distribuído sob a licença MIT. Você pode usá-lo, modificá-lo e distribuí-lo livremente.
 
 👤 Autor
-Feito com ❤️ por Seu Nome. Conecte-se comigo! 🚀
+Feito por Rodrigo Geraldino Feitosa Silva. Conecte-se comigo! 🚀
